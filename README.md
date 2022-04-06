@@ -7,7 +7,7 @@ Heroku Deployment: https://crud-note-taker.herokuapp.com/
 This application allows the user to enter and save notes for later viewing and deleting.
 
 ## Movitavtion
-This is a student project intended to demonstrate the ability to affect information persistence employing the nodes.js Express module to implement a JSON database.
+This is a student project intended to demonstrate the ability to affect information persistence employing the nodes.js Express module to implement a simple JSON database.
 
 ## Table of Contents
 [Installation](#installation) 
@@ -32,14 +32,12 @@ This is a student project intended to demonstrate the ability to affect informat
 
  
 ## Installation
-Prior to running 'README Generator', the npm packages 'inquirer' and 'fs' must be installed in the N
-
-
-![alt text](./assets/images/com_1.png)
+This application is deployed via Heroku (https://www.heroku.com/) and is publicly available at https://crud-note-taker.herokuapp.com/.
 
 ## Usage
-Simply follow the prompts and focus on content. Input type prompts expect text from the command line. Enter with no text input to cancel. Editor prompt open your default editor for input. Elect to save upon exiting. Exit without entering text or saving to cancel. After the final prompt is resolved, the README.md file will be created in the local director. 
-
+From any state, to enter a note, simple click the plus sign 'Add Button', click the respective 'Title' or 'Text' areas and enter your note. Note that complete notes must have both a note title and text.  
+To select a saved note for reading, click on it's title in the right column.  
+To delete a saved note, click on it's respective waste paper basket. 
 
 ![alt text](./assets/images/com_2.png)
 
