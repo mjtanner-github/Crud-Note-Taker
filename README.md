@@ -35,9 +35,10 @@ This is a student project intended to demonstrate the ability to affect informat
 This application is deployed via Heroku (https://www.heroku.com/) and is publicly available at https://crud-note-taker.herokuapp.com/.
 
 ## Usage
-From any state, to enter a note, simple click the plus sign 'Add Button', click the respective 'Title' or 'Text' areas and enter your note. Note that complete notes must have both a note title and text.  
-To select a saved note for reading, click on it's title in the right column.  
-To delete a saved note, click on it's respective waste paper basket. 
+1. From any state, to enter a note, simple click the plus sign 'Add Button', click the respective 'Title' or 'Text' areas and enter your note. Note that complete notes must have both a note title and text.  
+2. To save a note, click on the diskete 'Save' icon. Note the the diskete icon only appears once a complete note has been entered.
+3. To select a saved note for reading, click on it's title in the right column.    
+4. To delete a saved note, click on it's respective waste paper basket.   
 
 ![alt text](./assets/images/com_2.png)
 
