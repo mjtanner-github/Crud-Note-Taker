@@ -20,6 +20,12 @@ This application is deployed via Heroku (https://www.heroku.com/) and is publicl
 
 ![visual depiction of usage](./assets/fig_2.png)
 
+## More Work That Can Be Done
+
+1. Edit feature: Retrieve a message, edit it, and save it either as the original note or as a new note.
+2. Auto-timestamp.
+3. Pull-down time and date due feature.
+
 ## License
 MIT License
 
