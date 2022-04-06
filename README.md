@@ -1,30 +1,91 @@
 # Crud Note Taker
 Homework 11 for Georgia Tech Coding Boot Camp  
 Matthew Tanner
-## What It Is
-#### This is a student project intended to model implimentation of persistent storage in the form of a simple database. The app allows the user to enter notes that can be later retrieved by title for reading or deleting. 
-## What's In The Box
-1. README.md: This file.
-2. Index.html: Governs the main application layout.
-3. style.css: Governs the visual and display behavior of the application.
-4. script.js: Governs all computations and general behavioral aspects of the application.
-## Top Down Design
-### A. Contruct The Daily Planner Visually.
-#### 1. Header
-##### a. Title
-##### b. Day/Date enunciator
-#### 2. Daily Schedule
-##### a. Hourly Entry 
-###### (1) Hour Label
-###### (2) Hour Task/Assignment 
-###### (3) Commit/Clear Toggle 
-#### 3.Color task panes according to the hour recieved from "moment.js" and specification. 
-### B. Recieve User Input
-#### 1. Get The User Input From The Text Input Pane
-#### 2. Upon Clicking The Lock/Clear Toggle, Store To browser local memory. 
-#### 3. On subsequent click of Lock/Clear Toggle, clear entry from browser local memory.
-## What's Left to Do
-### A. Color code Lock/Clear Toggles according to locked/cleared status.
-### B. Make the application more accessible to phones and small devices. 
-### C. Improve Lock/Clear Toggle so that existing text can be appended.
-### D. Implement navigation header and exit. 
+Heroku Deployment: https://crud-note-taker.herokuapp.com/
+
+## Description
+This application allows the user to enter and save notes for later viewing and deleting.
+
+## Movitavtion
+This is a student project intended to demonstrate the ability to affect information persistence employing the nodes.js Express module to implement a JSON database.
+
+## Table of Contents
+[Installation](#installation) 
+
+ [Usage](#usage) 
+
+ [Credits](#credits) 
+
+ [Attributions](#attributions) 
+
+ [Tutorials](#tutorials) 
+
+ [License](#license) 
+
+ [Badges](#badges) 
+
+ [Features](#features) 
+
+ [Contribute](#contribute) 
+
+ [Tests](#tests) 
+
+ 
+## Installation
+Prior to running 'README Generator', the npm packages 'inquirer' and 'fs' must be installed in the N
+
+
+![alt text](./assets/images/com_1.png)
+
+## Usage
+Simply follow the prompts and focus on content. Input type prompts expect text from the command line. Enter with no text input to cancel. Editor prompt open your default editor for input. Elect to save upon exiting. Exit without entering text or saving to cancel. After the final prompt is resolved, the README.md file will be created in the local director. 
+
+
+![alt text](./assets/images/com_2.png)
+
+## Credits
+Snowball Pete, snowball_pete-github
+
+## Attribtutions
+Acme Software and Explosives
+
+## Tutorials
+"This is How we Do it (Guide for the Ill-informed)"
+
+## License
+MIT License
+
+Copyright (c) 2022 Matthew J. Tanner
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Badges
+Bronze Self-Award Badge
+
+## Features
+Checkbox Table of Contents, Editor Prompts
+
+![alt text](./assets/images/com_3.png)
+
+## Contribute
+Refer to Contributor Covenant (https://www.contributor-covenant.org/).
+
+## Tests
+This is some standin test verbage.
