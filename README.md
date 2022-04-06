@@ -9,13 +9,6 @@ This application allows the user to enter and save notes for later viewing and d
 ## Movitavtion
 This is a student project intended to demonstrate the ability to affect information persistence employing the nodes.js Express module to implement a simple JSON database.
 
-## Table of Contents
-[Installation](#installation) 
-
- [Usage](#usage) 
-
- [License](#license) 
- 
 ## Installation
 This application is deployed via Heroku (https://www.heroku.com/) and is publicly available at https://crud-note-taker.herokuapp.com/.
 
