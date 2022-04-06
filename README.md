@@ -1,6 +1,6 @@
 # Crud Note Taker
 #### Homework 11 for Georgia Tech Coding Boot Camp
-#### Matthew Tanner
+#### Matthew Tanner  
 ## What It Is
 #### This is a student project intended to model implimentation of persistent storage in the form of a simple database. The app allows the user to enter notes that can be later retrieved by title for reading or deleting. 
 ## What's In The Box
