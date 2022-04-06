@@ -40,7 +40,7 @@ This application is deployed via Heroku (https://www.heroku.com/) and is publicl
 3. To select a saved note for reading, click on it's title in the right column.    
 4. To delete a saved note, click on it's respective waste paper basket.   
 
-![alt text](./assets/images/com_2.png)
+![visual depiction of usage](./assets/fig_2.png)
 
 ## Credits
 Snowball Pete, snowball_pete-github
